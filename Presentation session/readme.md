@@ -2,7 +2,7 @@
 ## Présentation de la session
 
 **Projet :** Réseaux et Déploiement Web  
-**Réalisée par :** Salma Akajou  
+**Réalisée par :** Mallouli Abdelhay 
 **Encadré par :** ESSARRAJ Fouad  
 
 ---
